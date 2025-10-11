@@ -27,5 +27,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
