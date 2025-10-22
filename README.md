@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -19,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0066-plus-one) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -34,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0050-powx-n) |
+## Binary Search Tree
+|  |
+| ------- |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
