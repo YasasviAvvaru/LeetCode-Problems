@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 ## Binary Search
 |  |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
