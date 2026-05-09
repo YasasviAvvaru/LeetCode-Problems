@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0213-house-robber-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0213-house-robber-ii) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
