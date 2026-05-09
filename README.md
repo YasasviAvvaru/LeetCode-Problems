@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
