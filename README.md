@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0547-number-of-provinces](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 ## Dynamic Programming
 |  |
 | ------- |
