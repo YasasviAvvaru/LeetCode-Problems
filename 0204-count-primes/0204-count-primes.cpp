@@ -1,12 +1,12 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        vector<int>vis(n,0);
+        vector<bool>vis(n,false);
         int ans=0;
-        for(int i=2;i<n;i++){
-            if(vis[i]==0){
+        for(long long i=2;i<n;i++){
+            if(!vis[i]){
                 ans++;
-                for(int j=2*i;j<n;j+=i){
+                for(long long j=i*i;j<n;j+=i){
                     vis[j]=1;
                 }
             }
