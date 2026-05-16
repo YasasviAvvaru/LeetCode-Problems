@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
