@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1127-last-stone-weight](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Math
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Recursion
 |  |
