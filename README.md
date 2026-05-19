@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0416-partition-equal-subset-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Memoization
 |  |
