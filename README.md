@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0066-plus-one) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
