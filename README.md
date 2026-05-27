@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Memoization
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
