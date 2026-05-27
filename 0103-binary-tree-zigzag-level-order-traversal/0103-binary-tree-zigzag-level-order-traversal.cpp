@@ -1,62 +1,41 @@
-#include <vector>
-#include <queue>
-#include <algorithm> // Needed for std::reverse
-
-using namespace std;
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
- * int val;
- * TreeNode *left;
- * TreeNode *right;
- * TreeNode() : val(0), left(nullptr), right(nullptr) {}
- * TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- * TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        if (!root) return {};
-
-        vector<vector<int>> ans;
-        queue<TreeNode*> q;
+        if(!root)return {};
+        queue<TreeNode*>q;
+        vector<vector<int>>ans;
+        bool state=true;
         q.push(root);
-        
-        // This flag tracks which direction the *output* should be
-        bool leftToRight = true; 
-
-        while (!q.empty()) {
-            int sz = q.size();
-            vector<int> level;
-            
-            // This for-loop is standard BFS. It *always*
-            // processes nodes left-to-right.
-            for (int i = 0; i < sz; i++) {
-                TreeNode* node = q.front();
+        while(!q.empty()){
+            int n=q.size();
+            vector<int>v;
+            for(int i=0;i<n;i++){
+                auto x=q.front();
                 q.pop();
-                
-                level.push_back(node->val);
-                
-                // And it *always* enqueues children left, then right.
-                if (node->left) q.push(node->left);
-                if (node->right) q.push(node->right);
+                v.push_back(x->val);
+                if(x->left)q.push(x->left);
+                if(x->right)q.push(x->right);
             }
-
-            // --- This is the "zigzag" part ---
-            // If the flag says we should be R-L, reverse the level vector.
-            if (!leftToRight) {
-                reverse(level.begin(), level.end());
+            if(state){
+                state=false;
             }
-
-            // Add the (possibly reversed) level to the answer
-            ans.push_back(level);
-            
-            // Flip the flag for the next level
-            leftToRight = !leftToRight;
+            else{
+                reverse(v.begin(),v.end());
+                state=true;
+            }
+            ans.push_back(v);
         }
-
         return ans;
     }
 };
