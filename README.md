@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0547-number-of-provinces) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Array
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0127-word-ladder) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
