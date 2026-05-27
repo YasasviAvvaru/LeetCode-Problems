@@ -11,16 +11,14 @@
  */
 class Solution {
 public:
-    bool isSym(TreeNode* n1,TreeNode* n2){
-        if(!n1 and !n2)return true;
-        if((!n1 and n2)or(!n2 and n1))return false;
-        if(n1->val==n2->val){
-            return isSym(n1->left,n2->right)&isSym(n1->right,n2->left);
-        }
-        return false;
+    bool fxn(TreeNode* l,TreeNode* r){
+        if(!l and !r)return true;
+        if((!l and r)or(!r and l))return false;
+        return fxn(l->left,r->right)&&fxn(l->right,r->left)&&(l->val==r->val);
     }
     bool isSymmetric(TreeNode* root) {
-        if(root)return isSym(root->left,root->right);
-        else return true;
+        if(!root)return true;
+        auto l=root->left,r=root->right;
+        return fxn(l,r);
     }
 };
