@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0204-count-primes) |
+| [1903-largest-odd-number-in-string](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0127-word-ladder) |
+| [1903-largest-odd-number-in-string](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
