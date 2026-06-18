@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0451-sort-characters-by-frequency](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0451-sort-characters-by-frequency](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1903-largest-odd-number-in-string](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
