@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -309,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
