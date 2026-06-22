@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0053-maximum-subarray) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
