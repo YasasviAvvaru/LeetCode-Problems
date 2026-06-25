@@ -1,10 +1,18 @@
 class Solution {
 public:
+    bool f(int val,int x){return val>=x;}
     int searchInsert(vector<int>& v, int x) {
-        int count = upper_bound(v.begin(), v.end(), x)- lower_bound(v.begin(), v.end(), x);
+        //find first index >=x.
+        int l=0,r=v.size()-1,mid,ans=r+1;
+        while(l<=r){
+            mid=(l+r)/2;
 
-        auto it = lower_bound(v.begin(), v.end(), x);
-        return it-v.begin();
-
+            if(f(v[mid],x)){
+                ans=mid;
+                r=mid-1;
+            }
+            else l=mid+1;
+        }
+        return ans;
     }
 };
