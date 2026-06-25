@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
 |  |
