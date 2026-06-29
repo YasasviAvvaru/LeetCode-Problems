@@ -1,5 +1,26 @@
 class Solution {
 public:
+    void dfs(vector<string>& v,string& cur,int imb,int n){
+        if(cur.size()==n){
+            if(imb==0)v.push_back(cur);
+            return;
+        }
+        //currently string has f->( and c-f->)
+        //a)cur[last]=)->bal if 2*f=c
+        //b)cur[last]=(->bal
+
+        cur.push_back('(');
+        dfs(v,cur,imb+1,n);
+        cur.pop_back();
+
+        if(imb>0){
+            cur.push_back(')');
+            dfs(v,cur,imb-1,n);
+            cur.pop_back();
+        }
+
+        return ;
+    }
     pair<bool,string> isvalid(int x,int n1){
         string s;
         bool b;
@@ -11,22 +32,23 @@ public:
             }
             else{
                 s.push_back(')');
+                //imb=0 and want )
                 if(st.empty())return {false,""};
+
+                //imb--
                 else{
                     st.pop();
                 }
             }
         }
+        //if imb>0
         if(!st.empty())return {false,""};
         return {true,s};
     }
     vector<string> generateParenthesis(int n) {
         vector<string>v;
-        int n1=2*n;
-        for(int x=0;x<(1<<n1);x++){
-            auto [b,s]=isvalid(x,n1);
-            if(b)v.push_back(s);
-        }
+        string s="";
+        dfs(v,s,0,2*n);
         return v;
     }
 };
