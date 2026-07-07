@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0035-search-insert-position) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
