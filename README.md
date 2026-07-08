@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1127-last-stone-weight](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [1539-kth-missing-positive-number](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
