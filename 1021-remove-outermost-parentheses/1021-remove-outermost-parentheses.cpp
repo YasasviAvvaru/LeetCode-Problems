@@ -1,57 +1,33 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        // stack<char>st;
-        // set<int>v;
-        // st.push(s[0]);
-        // int l=0,i=1,n=s.size();
-        // while(i<n){
-        //     if(st.top()==s[i]){
-        //         st.push(s[i]);
-        //     }
-        //     else{
-        //         st.pop();
-        //     }
-        //     if(st.empty()){
-        //         v.insert(l);
-        //         v.insert(i);
-        //         l=i+1;
-        //         if(l<n)st.push(s[l]);
-        //     }
-        //     i++;
-        // }
-        // string x;
-        // for(int i=0;i<n;i++){
-        //     if(v.find(i)!=v.end()){
-        //         x.push_back(s[i]);
-        //     }
-        // }
-        // return x;
-        stack<char>st;
-        set<int>v;
-        int n=s.size(),l=0;
-        for(int i=0;i<n;i++){
-            if(st.empty() and s[i]=='('){
-                st.push('(');
-                l=i;
+        //if a ( has no unbalanced ( in prefix then it is an outer most paranthesis.
+
+        stack<pair<int,int>>st;
+        vector<int>v;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='(' and st.empty()){
+                st.push({1,i});
             }
-            else if(st.top()==s[i]){
-                st.push(s[i]);
+            else if(s[i]=='('){
+                st.push({0,i});
             }
-            else{
+            else if(s[i]==')' and st.top().first==1){
+                v.push_back(i);
+                v.push_back(st.top().second);
                 st.pop();
-            }
-            if(st.empty()){
-                v.insert(i);
-                v.insert(l);
-            }
+            } 
+            else st.pop();
         }
-        string x;
-        for(int i=0;i<n;i++){
-            if(v.find(i)==v.end()){
-                x.push_back(s[i]);
+        sort(v.begin(),v.end());
+        string ans;
+        for(int i=s.size()-1;i>=0;i--){
+            if(v.back()!=i){
+                ans.push_back(s[i]);
             }
+            else v.pop_back();
         }
-        return x;
+        reverse(ans.begin(),ans.end());
+        return ans;
     }
 };
