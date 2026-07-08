@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0451-sort-characters-by-frequency](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
