@@ -1,46 +1,45 @@
-struct Node {
-    Node* links[26] = {nullptr}; 
-    bool flag = false; 
-    
-    // Encapsulate raw array accesses
-    bool containsKey(char ch) { return links[ch - 'a'] != nullptr; }
-    void put(char ch, Node* node) { links[ch - 'a'] = node; }
-    Node* get(char ch) { return links[ch - 'a']; }
-    void setEnd() { flag = true; }
-    bool isEnd() { return flag; }
+struct Node{
+    Node* links[26]={nullptr};
+    bool flag=false;
+    //
 };
+
 class Trie {
 public:
     Node* root;
     Trie() {
-        root =new Node();
+        root=new Node();
     }
     
     void insert(string word) {
         Node* ptr=root;
         for(auto& x:word){
-            if(!ptr->containsKey(x)){
-                ptr->put(x,new Node());
+            if(ptr->links[x-'a']==nullptr){
+                ptr->links[x-'a']= new Node();
             }
-            ptr=ptr->get(x);
+            ptr=ptr->links[x-'a'];
         }
-        ptr->setEnd();
+        ptr->flag=true;
     }
     
     bool search(string word) {
         Node* ptr=root;
         for(auto& x:word){
-            if(!ptr->containsKey(x))return false;
-            ptr=ptr->get(x);
+            if(ptr->links[x-'a']==nullptr){
+                return false;
+            }
+            ptr=ptr->links[x-'a'];
         }
-        return (ptr->isEnd());
+        return ptr->flag;
     }
     
-    bool startsWith(string prefix) {
+    bool startsWith(string word) {
         Node* ptr=root;
-        for(auto& x:prefix){
-            if(!ptr->containsKey(x))return false;
-            ptr=ptr->get(x);
+        for(auto& x:word){
+            if(ptr->links[x-'a']==nullptr){
+                return false;
+            }
+            ptr=ptr->links[x-'a'];
         }
         return true;
     }
