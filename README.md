@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0127-word-ladder) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0451-sort-characters-by-frequency](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
