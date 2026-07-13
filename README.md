@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0078-subsets) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Enumeration
 |  |
 | ------- |
