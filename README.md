@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0078-subsets) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Enumeration
 |  |
