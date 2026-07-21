@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0204-count-primes) |
 | [1903-largest-odd-number-in-string](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2939-maximum-xor-product](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2939-maximum-xor-product) |
 ## Binary Search
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0078-subsets) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [2939-maximum-xor-product](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2939-maximum-xor-product) |
 ## Enumeration
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1642-furthest-building-you-can-reach](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1642-furthest-building-you-can-reach) |
 | [1903-largest-odd-number-in-string](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2939-maximum-xor-product](https://github.com/YasasviAvvaru/LeetCode-Problems/tree/master/2939-maximum-xor-product) |
 ## Bucket Sort
 |  |
 | ------- |
